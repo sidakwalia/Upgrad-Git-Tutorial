@@ -3,3 +3,6 @@ def upgrad():
 
 def introduction():
   print("My name is inderpreet singh")
+  
+def machine learning():
+  pass
